@@ -1,0 +1,23 @@
+{
+  "name": "baekjun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ATM.js",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starcush/algorithms_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starcush/algorithms_practice/issues"
+  },
+  "homepage": "https://github.com/Starcush/algorithms_practice#readme"
+}
